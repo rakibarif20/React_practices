@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: #ededed;
+}
+
+.card {
+    width: 300px;
+    display: inline-block;
+    box-shadow: 2px 2px 5px gray;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+.paragraph {
+    color:#232323;
+    margin: 0;
+    text-align: center;
+}
